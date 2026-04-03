@@ -1,8 +1,8 @@
 # 📌 Hybrid Octet–Voronoi Lattice Scaffold
 
-> **B.Tech Project (BTP) — Ongoing Research & Development**
-> 
-> Computational design, optimization, and validation of a hybrid bio-inspired lattice structure for potential biomedical implant applications.
+ **B.Tech Project (BTP) — Ongoing Research & Development**
+ 
+Computational design, optimization, and validation of a hybrid bio-inspired lattice structure for potential biomedical implant applications.
 
 ---
 
@@ -11,6 +11,8 @@
 The core objective of this project is to develop a mechanically optimized, bioresorbable polymer scaffold that mimics natural bone architecture. To achieve this, the project combines two distinct topologies:
 * **Periodic Octet-Truss Lattice (Core):** Ensures predictable and robust load-bearing behavior.
 * **Stochastic Voronoi Lattice (Outer Shell):** Mimics natural trabecular bone to enhance osseointegration and reduce stress shielding.
+
+---
 
 ## 🚧 Current Status
 
